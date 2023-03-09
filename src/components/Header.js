@@ -4,10 +4,10 @@ import "../styles/HeaderStyle.css";
 
 export default function Header() {
   return (
-    <header className="header">
-      <img src="./images/troll-face.png " />
-      <h1>Meme Generator</h1>
-      <h2>React Course - Project 3</h2>
+    <header id="header">
+      <img src="./images/troll-face.png " id="header-image" />
+      <h1 id="header-title">Meme Generator</h1>
+      <h2 id="header-project">React Course - Project 3</h2>
     </header>
   );
 }
