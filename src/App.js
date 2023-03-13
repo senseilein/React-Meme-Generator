@@ -1,5 +1,5 @@
 import React from "react";
-import Header from "./components/Header copy";
+import Header from "./components/Header";
 import Meme from "./components/Meme";
 
 function App() {
